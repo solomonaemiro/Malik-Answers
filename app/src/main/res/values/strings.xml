@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Malik Answers</string>
+    <string name="tvIntroduction">ምን ማወቅ ይፈልጋሉ?   ማሊክን ይጠይቁ ። </string>
+    <string name="tvMalikAnswers"> Malik Answers</string>
+    <string name="start"><![CDATA[Start —>]]></string>
+    <string name="beforeYouAsk">ከመጠየቅዎ በፊት ፡</string>
+    <string name="malik_please_answer">Malik please answer ወይም
+        Malik please answer the following question
+    ማለት እንዳይረሱ </string>
+    <string name="malik_please_answer_two">Malik please answer the following question</string>
+    <string name="dontForget">ማለት እንዳይረሱ ።</string>
+    <string name="ask">Ask</string>
+    <string name="write_your_question_here">ጥያቄዎን ከዚህ ያስገቡ</string>
+    <string name="amharic_or_english">በአማርኛ እና English መጠየቅ ይቻላል ።</string>
+</resources>
